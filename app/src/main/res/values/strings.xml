@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">植物圖鑑</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="programming_languages">
+        <item>松樹</item>
+        <item>蒲公英</item>
+        <item>榕樹</item>
+        <item>水芙蓉</item>
+        <item>楓樹</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>This is random description.</item>
+        <item>This is random description.</item>
+        <item>This is random description.</item>
+        <item>This is random description.</item>
+        <item>This is random description.</item>
+    </string-array>
+</resources>
